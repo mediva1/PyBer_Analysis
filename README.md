@@ -52,4 +52,6 @@ Create line, bar, scatter, bubble, pie, and box-and-whisker plots using Matplotl
     > The Rural cities - opportunity to expand fares 
      > Total Fare by City Type,
 
-    
+    Results
+    [PyBer_fare_summary](https://user-images.githubusercontent.com/114198811/198911897-8c136889-b672-4679-9085-6064fad2688b.png)
+
