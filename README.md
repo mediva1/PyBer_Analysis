@@ -44,8 +44,6 @@ Create line, bar, scatter, bubble, pie, and box-and-whisker plots using Matplotl
     > * The Urban fares start with an average of $1,800 - consistent increase to ~$2,300. 
        
 3. **Summary** 
-
-    > Opportunities to expand the business in rural and suburban cities, including hiring drivers 
     
     > The Urban cities - opportunities to expand rides.  
    
